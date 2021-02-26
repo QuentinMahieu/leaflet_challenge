@@ -3,6 +3,7 @@
 
 #Api
 api_keys.py
+Config.js
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
