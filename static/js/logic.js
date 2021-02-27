@@ -1,4 +1,4 @@
-
+const API_KEY = process.env.API_KEY
 // collect the data and use the functions to create the map
 var url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson";
 var url2 = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json";
